@@ -1,0 +1,19 @@
+{
+  "name": "com.jcjee.plugins.emailcomposer",
+  "version": "1.4.6",
+  "description": "Email Composer with Attachments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaosen/email-composer.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaosen/email-composer/issues"
+  },
+  "homepage": "https://github.com/gaosen/email-composer#readme"
+}
